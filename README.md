@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm SHIVARAM</h1>
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
+- 🔭 I’m currently working on [AI_Powered_Ecommerce_Virtual_Assistant](https://github.com/shivaram8055/AIPoweredEcommerceVirtualAssistant)
+
+- 🌱 I’m currently learning **Firebase**
+
+- 💬 Ask me about **react**
+
 - 📫 How to reach me **shivamusku8055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
