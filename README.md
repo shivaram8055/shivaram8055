@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHIVARAM MUSKU</h1>
 <h3 align="center">A passionate frontend and Python developer from India</h3>
 
-- 🔭 I’m currently working on [AI_Powered_Ecommerce_Virtual_Assistant](https://github.com/shivaram8055/AIPoweredEcommerceVirtualAssistant)
+- 🔭 I’m currently working on [AI_Powered_Ecommerce_Virtual_Assistant](https://github.com/shivaram8055/BeyondRetail.git)
 
 - 🌱 I’m currently learning **Firebase**
 
