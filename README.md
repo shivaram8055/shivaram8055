@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AI_Powered_Ecommerce_Virtual_Assistant](https://github.com/shivaram8055/BeyondRetail.git)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Node js**
 
 - 👯 Worked On [Text_To_Speech](https://mellifluous-dieffenbachia-027b67.netlify.app/)
 
