@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 Worked On [Text_To_Speech](https://mellifluous-dieffenbachia-027b67.netlify.app/)
+- 👯 Worked On [Text_To_Speech](beyond-retail.vercer.app)
 
 - 💬 Ask me about **react**
 
