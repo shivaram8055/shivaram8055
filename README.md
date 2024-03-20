@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 Worked On [Text_To_Speech](beyond-retail.vercer.app)
+- 👯 Worked On [BeyondRetail](beyond-retail.vercer.app)
 
 - 💬 Ask me about **react**
 
