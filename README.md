@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 Worked On [BeyondRetail](beyond-retail.vercer.app)
+- 👯 Worked On [BeyondRetail](beyond-retail.vercel.app) [Sukuna - Anime Inspired Home](https://home-pages-fawn.vercel.app/)
 
 - 💬 Ask me about **react**
 
